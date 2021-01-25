@@ -1,4 +1,4 @@
-# Location Based Season Viewer app
+# Location Based Season Viewer React app
 
 It's a simple location based Season Viewer app made with ReacJs.
 
