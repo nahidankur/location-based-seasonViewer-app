@@ -1,0 +1,45 @@
+.icon-right{
+   position: absolute;
+   top: 10px;
+   right: 10px;
+}
+
+.icon-left{
+     position: absolute;
+     left: 10px;
+     bottom: 10px;
+}
+
+.season{
+ align-items: center;
+ justify-content: center;
+ display: flex;
+ height: 100vh;
+}
+
+ .winter {
+    background-color: black;
+       
+}
+
+.summer{
+    background-color: yellow;
+}
+
+.season.winter i{
+    color: whitesmoke;
+}
+
+.season.summer i{
+    color: orange;
+}
+
+.season.winter h1.seasonText{
+    color: whitesmoke;
+    font-size: 70px;
+}
+
+.season.summer h1.seasonText{
+    color: black;
+    font-size: 70px;
+}
